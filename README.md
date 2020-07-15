@@ -11,7 +11,7 @@ https://www.apple.com/numbers/
 Installation:
 This tool can be install on an IOS or any Apple device that supports the Numbers application. 
 
-https://drive.google.com/file/d/1rfjxLRfubF4KBxD0ny3h37nwCZZQeHUs/view?usp=sharing
+https://github.com/Fran0616/Budget-Templet/blob/master/Finance%20Beta%201.nmbtemplate
 
 Templet Explination: 
 
